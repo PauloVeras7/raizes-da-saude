@@ -51,15 +51,6 @@ Essas telas foram planejadas para tornar a aplicação mais completa, intuitiva 
 
 ---
 
-## 💻 Como visualizar o projeto
-1. Baixe ou clone este repositório  
-2. Abra o arquivo `index.html` no navegador  
-
-> *(Opcional: se o projeto estiver hospedado no GitHub Pages, adicione o link abaixo)*  
-👉 [Acessar versão online](https://pauloveras7.github.io/raizes-da-saude/)
-
----
-
 ## 📸 Preview do projeto
 ![Screenshot do site](./PROJETO/img/preview.jpg)
 
