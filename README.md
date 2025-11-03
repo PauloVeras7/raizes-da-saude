@@ -53,8 +53,9 @@ Essas telas foram planejadas para tornar a aplicação mais completa, intuitiva 
 
 ## 📸 Preview do projeto
 <p align="center">
-  <img src="PROJETO/img/preview.jpg" alt="Preview do site Raízes da Saúde" width="800">
+  <img src="./preview.jpg" alt="Preview do site Raízes da Saúde" width="800">
 </p>
+
 
 ---
 
